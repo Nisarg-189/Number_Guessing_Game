@@ -8,12 +8,24 @@ The computer randomly selects a number within a given range, and the player trie
 
 ## 🚀 Features
 
-- Random number generation
-- User input handling
-- Feedback system (Too High / Too Low / Correct)
-- Attempt counter
-- Replay option
-- Input validation
+- 🎚️ Difficulty Levels:
+  - Easy (1–20)
+  - Moderate (1–50)
+  - Extreme (1–100)
+- 🔢 Random number generation
+- 🔁 Continuous guessing until correct
+- 🧠 Input validation (prevents crashes on invalid input)
+- 🎉 Success message when guessed correctly
+
+
+---
+
+## 📦 Project Structure
+
+number-guessing-game/
+│
+├── main.py
+└── README.md
 
 ---
 
@@ -43,5 +55,17 @@ cd number-guessing-game
  ```bash
 python main.py
 ```
+
+---
+
+##🎮 How to Play
+1. Run the program.
+2. Select a difficulty level.
+3. Enter your guess when prompted.
+4. The game will tell you:
+      -"Too High!"
+      -"Too Low!"
+      -"You got it!! 🎉"
+5. Keep guessing until you find the correct number.
 
 ---
