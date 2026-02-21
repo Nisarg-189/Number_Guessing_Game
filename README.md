@@ -63,9 +63,9 @@ python main.py
 2. Select a difficulty level.
 3. Enter your guess when prompted.
 4. The game will tell you:
-      -"Too High!"
-      -"Too Low!"
-      -"You got it!! 🎉"
+      •"Too High!"
+      •"Too Low!"
+      •"You got it!! 🎉"
 5. Keep guessing until you find the correct number.
 
 ---
