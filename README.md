@@ -62,7 +62,7 @@ python main.py
 1. Run the program.
 2. Select a difficulty level.
 3. Enter your guess when prompted.
-4. The game will tell you:
+4. The game will tell you:  
    "Too High!",  
    "Too Low!",  
    "You got it!! 🎉"
